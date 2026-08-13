@@ -1,24 +1,24 @@
 import { useState } from "react";
 
-import ankit from "../assets/members/ANKIT KUMAR HAZRA.PNG";
-import adityaVashishta from "../assets/members/ADITYA VASHISHTA.PNG";
-import rishabh from "../assets/members/RISABH TIWARI.PNG";
+import ankit from "../assets/members/ANKIT KUMAR HAZRA.png";
+import adityaVashishta from "../assets/members/ADITYA VASHISHTA.png";
+import rishabh from "../assets/members/RISABH TIWARI.png";
 
-import tanish from "../assets/members/TANISH TYAGI.PNG";
-import abhinav from "../assets/members/ABHINAV AHLAWAT.PNG";
+import tanish from "../assets/members/TANISH TYAGI.png";
+import abhinav from "../assets/members/ABHINAV AHLAWAT.png";
 import ayush from "../assets/members/AYUSH KAUSHIK.jpeg";
-import adityaSaini from "../assets/members/ADITYA SAINI.PNG";
-import adityaMohan from "../assets/members/ADITYA MOHAN.PNG";
-import vedatma from "../assets/members/VEDATMA KRITI.PNG";
-import om from "../assets/members/OM JOSHI.PNG";
-import arnab from "../assets/members/ARNAB BANDYOPADHYAY.PNG";
-import shiva from "../assets/members/SHIVANAND SINGH.PNG";
-import navneet from "../assets/members/NAVNEET PATEL.PNG";
-import yuvraj from "../assets/members/YUVRAJ.PNG";
-import rohit from "../assets/members/ROHIT MENON.PNG";
-import abhinavSrivastava from "../assets/members/ABHINAV SRIVASTAVA.PNG";
-import rehan from "../assets/members/MOHAMMED REHAN IBRAHIM SHAIKH.PNG";
-import shwetank from "../assets/members/SHWETANK.PNG";
+import adityaSaini from "../assets/members/ADITYA SAINI.png";
+import adityaMohan from "../assets/members/ADITYA MOHAN.png";
+import vedatma from "../assets/members/VEDATMA KRITI.png";
+import om from "../assets/members/OM JOSHI.png";
+import arnab from "../assets/members/ARNAB BANDYOPADHYAY.png";
+import shiva from "../assets/members/SHIVANAND SINGH.png";
+import navneet from "../assets/members/NAVNEET PATEL.png";
+import yuvraj from "../assets/members/YUVRAJ.png";
+import rohit from "../assets/members/ROHIT MENON.png";
+import abhinavSrivastava from "../assets/members/ABHINAV SRIVASTAVA.png";
+import rehan from "../assets/members/MOHAMMED REHAN IBRAHIM SHAIKH.png";
+import shwetank from "../assets/members/SHWETANK.png";
 
 
 const seniorMembers = [
